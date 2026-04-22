@@ -1,4 +1,4 @@
-- name: prog8
+- name: Deploy
   hosts: web
   become: no
   tasks:
