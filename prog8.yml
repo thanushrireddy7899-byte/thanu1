@@ -1,6 +1,6 @@
-- name: Deploy
+- name: prog8
   hosts: web
-  become: yes
+  become: no
   tasks:
     - name: copy JAR file
       copy:
