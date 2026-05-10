@@ -1,5 +1,5 @@
 ---
-- name: Depoly Maven Artifact
+- name: Deploy Maven Artifact
   hosts: web
   became: no
   tasks:
